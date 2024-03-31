@@ -1,2 +1,2 @@
 # intelteck
-INtelTeck Web Dev files
+IntelTeck Web Dev files
